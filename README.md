@@ -1,2 +1,2 @@
 # exc1-js
-atividade 1 de javascript
+Alunas: Karen Vieira De Albuquerque, Letícia Correia Barreto Silva, Leticia Higino Camargo
